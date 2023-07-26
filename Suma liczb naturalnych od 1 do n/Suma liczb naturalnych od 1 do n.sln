@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suma liczb naturalnych od 1 do n", "Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n.csproj", "{DC26B4AD-7EF1-4908-A140-00353DD0038B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC26B4AD-7EF1-4908-A140-00353DD0038B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC26B4AD-7EF1-4908-A140-00353DD0038B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC26B4AD-7EF1-4908-A140-00353DD0038B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC26B4AD-7EF1-4908-A140-00353DD0038B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17FCA0AC-16DB-4696-B84A-9A96A254E877}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Beata\source\repos\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\bin\Debug\if else czy dana osoba jest pełnoletnia.exe.config
+C:\Users\Beata\source\repos\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\bin\Debug\if else czy dana osoba jest pełnoletnia.exe
+C:\Users\Beata\source\repos\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\bin\Debug\if else czy dana osoba jest pełnoletnia.pdb
+C:\Users\Beata\source\repos\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\obj\Debug\if else czy dana osoba jest pełnoletnia.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\obj\Debug\if else czy dana osoba jest pełnoletnia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\obj\Debug\if else czy dana osoba jest pełnoletnia.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\obj\Debug\if else czy dana osoba jest pełnoletnia.exe
+C:\Users\Beata\source\repos\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\obj\Debug\if else czy dana osoba jest pełnoletnia.pdb
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\bin\Debug\if else czy dana osoba jest pełnoletnia.exe.config
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\bin\Debug\if else czy dana osoba jest pełnoletnia.exe
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\bin\Debug\if else czy dana osoba jest pełnoletnia.pdb
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\obj\Debug\if else czy dana osoba jest pełnoletnia.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\obj\Debug\if else czy dana osoba jest pełnoletnia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\obj\Debug\if else czy dana osoba jest pełnoletnia.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\obj\Debug\if else czy dana osoba jest pełnoletnia.exe
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\if else czy dana osoba jest pełnoletnia\if else czy dana osoba jest pełnoletnia\obj\Debug\if else czy dana osoba jest pełnoletnia.pdb

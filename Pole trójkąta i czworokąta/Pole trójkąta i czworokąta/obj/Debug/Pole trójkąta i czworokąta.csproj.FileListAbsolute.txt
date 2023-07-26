@@ -1,0 +1,16 @@
+C:\Users\Beata\source\repos\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\bin\Debug\Pole trójkąta i czworokąta.exe.config
+C:\Users\Beata\source\repos\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\bin\Debug\Pole trójkąta i czworokąta.exe
+C:\Users\Beata\source\repos\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\bin\Debug\Pole trójkąta i czworokąta.pdb
+C:\Users\Beata\source\repos\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\obj\Debug\Pole trójkąta i czworokąta.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\obj\Debug\Pole trójkąta i czworokąta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\obj\Debug\Pole trójkąta i czworokąta.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\obj\Debug\Pole trójkąta i czworokąta.exe
+C:\Users\Beata\source\repos\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\obj\Debug\Pole trójkąta i czworokąta.pdb
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\bin\Debug\Pole trójkąta i czworokąta.exe.config
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\bin\Debug\Pole trójkąta i czworokąta.exe
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\bin\Debug\Pole trójkąta i czworokąta.pdb
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\obj\Debug\Pole trójkąta i czworokąta.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\obj\Debug\Pole trójkąta i czworokąta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\obj\Debug\Pole trójkąta i czworokąta.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\obj\Debug\Pole trójkąta i czworokąta.exe
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Pole trójkąta i czworokąta\Pole trójkąta i czworokąta\obj\Debug\Pole trójkąta i czworokąta.pdb

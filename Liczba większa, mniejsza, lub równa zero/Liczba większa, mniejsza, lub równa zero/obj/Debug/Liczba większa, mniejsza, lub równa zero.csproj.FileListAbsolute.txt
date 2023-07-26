@@ -1,0 +1,8 @@
+C:\Users\Beata\source\repos\Liczba większa, mniejsza, lub równa zero\Liczba większa, mniejsza, lub równa zero\bin\Debug\Liczba większa, mniejsza, lub równa zero.exe.config
+C:\Users\Beata\source\repos\Liczba większa, mniejsza, lub równa zero\Liczba większa, mniejsza, lub równa zero\bin\Debug\Liczba większa, mniejsza, lub równa zero.exe
+C:\Users\Beata\source\repos\Liczba większa, mniejsza, lub równa zero\Liczba większa, mniejsza, lub równa zero\bin\Debug\Liczba większa, mniejsza, lub równa zero.pdb
+C:\Users\Beata\source\repos\Liczba większa, mniejsza, lub równa zero\Liczba większa, mniejsza, lub równa zero\obj\Debug\Liczba większa, mniejsza, lub równa zero.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Liczba większa, mniejsza, lub równa zero\Liczba większa, mniejsza, lub równa zero\obj\Debug\Liczba większa, mniejsza, lub równa zero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Liczba większa, mniejsza, lub równa zero\Liczba większa, mniejsza, lub równa zero\obj\Debug\Liczba większa, mniejsza, lub równa zero.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Liczba większa, mniejsza, lub równa zero\Liczba większa, mniejsza, lub równa zero\obj\Debug\Liczba większa, mniejsza, lub równa zero.exe
+C:\Users\Beata\source\repos\Liczba większa, mniejsza, lub równa zero\Liczba większa, mniejsza, lub równa zero\obj\Debug\Liczba większa, mniejsza, lub równa zero.pdb

@@ -1,0 +1,8 @@
+C:\Users\Beata\source\repos\Kierunek odjazdów pociągu\Kierunek odjazdów pociągu\bin\Debug\Kierunek odjazdów pociągu.exe.config
+C:\Users\Beata\source\repos\Kierunek odjazdów pociągu\Kierunek odjazdów pociągu\bin\Debug\Kierunek odjazdów pociągu.exe
+C:\Users\Beata\source\repos\Kierunek odjazdów pociągu\Kierunek odjazdów pociągu\bin\Debug\Kierunek odjazdów pociągu.pdb
+C:\Users\Beata\source\repos\Kierunek odjazdów pociągu\Kierunek odjazdów pociągu\obj\Debug\Kierunek odjazdów pociągu.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Kierunek odjazdów pociągu\Kierunek odjazdów pociągu\obj\Debug\Kierunek odjazdów pociągu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Kierunek odjazdów pociągu\Kierunek odjazdów pociągu\obj\Debug\Kierunek odjazdów pociągu.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Kierunek odjazdów pociągu\Kierunek odjazdów pociągu\obj\Debug\Kierunek odjazdów pociągu.exe
+C:\Users\Beata\source\repos\Kierunek odjazdów pociągu\Kierunek odjazdów pociągu\obj\Debug\Kierunek odjazdów pociągu.pdb

@@ -1,0 +1,16 @@
+C:\Users\Beata\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\bin\Debug\Ciąg Fibonacciego.exe.config
+C:\Users\Beata\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\bin\Debug\Ciąg Fibonacciego.exe
+C:\Users\Beata\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\bin\Debug\Ciąg Fibonacciego.pdb
+C:\Users\Beata\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.exe
+C:\Users\Beata\source\repos\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.pdb
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.exe
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Ciąg Fibonacciego\Ciąg Fibonacciego\obj\Debug\Ciąg Fibonacciego.pdb
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Ciąg Fibonacciego\Ciąg Fibonacciego\bin\Debug\Ciąg Fibonacciego.exe.config
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Ciąg Fibonacciego\Ciąg Fibonacciego\bin\Debug\Ciąg Fibonacciego.exe
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Ciąg Fibonacciego\Ciąg Fibonacciego\bin\Debug\Ciąg Fibonacciego.pdb

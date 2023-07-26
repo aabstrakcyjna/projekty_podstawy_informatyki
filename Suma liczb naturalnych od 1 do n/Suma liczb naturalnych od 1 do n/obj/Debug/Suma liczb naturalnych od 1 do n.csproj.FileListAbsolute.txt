@@ -1,0 +1,16 @@
+C:\Users\Beata\source\repos\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\bin\Debug\Suma liczb naturalnych od 1 do n.exe.config
+C:\Users\Beata\source\repos\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\bin\Debug\Suma liczb naturalnych od 1 do n.exe
+C:\Users\Beata\source\repos\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\bin\Debug\Suma liczb naturalnych od 1 do n.pdb
+C:\Users\Beata\source\repos\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\obj\Debug\Suma liczb naturalnych od 1 do n.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\obj\Debug\Suma liczb naturalnych od 1 do n.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\obj\Debug\Suma liczb naturalnych od 1 do n.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\obj\Debug\Suma liczb naturalnych od 1 do n.exe
+C:\Users\Beata\source\repos\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\obj\Debug\Suma liczb naturalnych od 1 do n.pdb
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\bin\Debug\Suma liczb naturalnych od 1 do n.exe.config
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\bin\Debug\Suma liczb naturalnych od 1 do n.exe
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\bin\Debug\Suma liczb naturalnych od 1 do n.pdb
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\obj\Debug\Suma liczb naturalnych od 1 do n.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\obj\Debug\Suma liczb naturalnych od 1 do n.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\obj\Debug\Suma liczb naturalnych od 1 do n.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\obj\Debug\Suma liczb naturalnych od 1 do n.exe
+C:\Users\Beata\source\repos\Zadania Podstawy informatyki\Suma liczb naturalnych od 1 do n\Suma liczb naturalnych od 1 do n\obj\Debug\Suma liczb naturalnych od 1 do n.pdb
